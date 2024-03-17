@@ -1,0 +1,1 @@
+Welcome to the CODSOFT Internship Tasks repository! This repository is dedicated to storing and managing all the tasks completed during your internship at CODSOFT. Here, you'll find a collection of programs, projects, and any related materials associated with your internship tasks.
